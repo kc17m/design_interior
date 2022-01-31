@@ -293,8 +293,13 @@ footer nav {
         font-size: .7rem;
     }
 
+    header p {
+        font-size: 1.2rem;
+
+    }
+
     main nav img {
-        width: 50px;
+        width: 50%;
     }
 
     .featured article:nth-of-type(2) {
@@ -312,8 +317,13 @@ footer nav {
         padding: 2%; 
     }
 
+    figure {
+        margin: 14%;
+    }
     img {
         padding: 3%;
+        width: 80%;
+        
     }
     
     
